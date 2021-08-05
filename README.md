@@ -1,5 +1,4 @@
-- Hi, I’m @Yukinera
-- I’m currently learning JavaScript and Python 
+- Hi I'm @Yukinera, your local code noob.
 
 <!---
 Yukinera/Yukinera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
